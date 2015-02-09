@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BIO402: Pathobiology"
+course_description: "A detailed study of the subject of human disease, placing special emphasis on the cause of disease at the tissue level. Focuses on what happens at the molecular and cellular level during inflammation and the immune response, infectious disease, and diseases of the immune system and body systems."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Losing the Battle—Infectious Disease, Cell Injury and Death,
 and Neoplasia** <span id="3"></span> 
 *In this unit, you will learn what happens when the immune system is

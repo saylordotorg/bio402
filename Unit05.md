@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BIO402: Pathobiology"
+course_description: "A detailed study of the subject of human disease, placing special emphasis on the cause of disease at the tissue level. Focuses on what happens at the molecular and cellular level during inflammation and the immune response, infectious disease, and diseases of the immune system and body systems."
+next: ../Unit06
+previous: ../Unit04
+---
 **Unit 5: Genetic and Systemic Disease States** <span id="5"></span> 
 *There are numerous genetic and systemic diseases that cause tissue
 damage and dysfunction.  In this unit, we will briefly examine genetic
