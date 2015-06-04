@@ -140,3 +140,13 @@ readings, lectures, and learning tasks.  When available, you may choose
 to print out articles and take notes directly on them.  You may want to
 use the course units and their subunits to create an outline for your
 notes.  
+
+**Table of Contents:** You can find the course's units at the links below.
+
+- [Unit 1](https://legacy.saylor.org/bio402/Unit01/)
+- [Unit 2](https://legacy.saylor.org/bio402/Unit02/)
+- [Unit 3](https://legacy.saylor.org/bio402/Unit03/)
+- [Unit 4](https://legacy.saylor.org/bio402/Unit04/)
+- [Unit 5](https://legacy.saylor.org/bio402/Unit05/)
+- [Unit 6](https://legacy.saylor.org/bio402/Unit06/)
+- [Unit 7](https://legacy.saylor.org/bio402/Unit07/)
