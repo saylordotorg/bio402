@@ -165,3 +165,4 @@ notes.  
 - [Unit 5](https://legacy.saylor.org/bio402/Unit05/)
 - [Unit 6](https://legacy.saylor.org/bio402/Unit06/)
 - [Unit 7](https://legacy.saylor.org/bio402/Unit07/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/BIO/BIO402/BIO402-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/BIO/BIO402/BIO402-FinalExam-Answers.html)
