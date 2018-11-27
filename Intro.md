@@ -91,7 +91,7 @@ computer.
  √    Be competent in the English language.
 
 √    Have read the [Saylor Student
-Handbook.](http://www.saylor.org/site/wp-content/uploads/2012/05/Saylor-StudentHandbook.pdf)
+Handbook.](https://resources.saylor.org/archived/wp-content/uploads/2012/05/Saylor-StudentHandbook.pdf)
 
 √    Have completed [BIO101: Introduction to Molecular and Cellular
 Biology](http://www.saylor.org/courses/bio101a/) and [BIO102:
